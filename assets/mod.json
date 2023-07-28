@@ -1,0 +1,12 @@
+{
+  "name": "starstry",
+  "displayName": "starstry",
+  "author": "star",
+  "description": "java mod",
+  "version": "0.1",
+  "main": "star.starstry.Main",
+  "minGameVersion": "135",
+  "dependencies": [],
+  "hidden": false,
+  "java": true
+}
